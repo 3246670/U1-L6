@@ -24,18 +24,25 @@ Nullo (Null): Rappresenta l'assenza intenzionale di un valore di oggetto.  */
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const myName = "Andrè"
+console.log(myName )
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-
+let numero1 = 12;
+let numero2 = 20;
+console.log(numero1+numero2)
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let Mario = 12; 
+console.log(Mario)
+console.log(Mario)
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
@@ -43,12 +50,18 @@ Nullo (Null): Rappresenta l'assenza intenzionale di un valore di oggetto.  */
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+/*  let myName = Pipitone
+console.log(myName)  */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let numero = 4; 
+console.log
+Mario-numero;  
+console.log(Mario-numero)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -57,3 +70,7 @@ Nullo (Null): Rappresenta l'assenza intenzionale di un valore di oggetto.  */
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const name1 ="john"
+const name2 = "John"
+console.log(name1===name2)
+console.log(name1 >= name2)
